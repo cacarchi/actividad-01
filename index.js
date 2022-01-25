@@ -4,3 +4,6 @@ class claseA {
         this.bar = bar;
     }
 }
+class claseB {
+
+}
